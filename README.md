@@ -1,4 +1,4 @@
-<h1>Contenido base para utilizarlo de arranque para la creación de una página web, utilizando las nuevas tendencias en el Desarrollo Web</h1>
+<h1>Contenido de una página, creada con HTML5 y CSS3, utilizando las nuevas tendencias en el Diseño Web</h1>
 <br>
 <h2>Al descargar este proyecto, debes efectuar los siguientes pasos:</h2>
 <ol>
@@ -6,7 +6,7 @@
   <li>Abrir en Visual Studio Code la carpeta del proyecto</li>
 </ol>
 
-Listo ya tienes tu proyecto, para que puedas practicar una y otra vez, viendo el video si lo deseas.
+Listo ya tienes tu proyecto, para que puedas practicar una y otra vez, viendo los videos, si lo deseas.
 <h2 style="text-align:center">Si quieres ir desde 0 a 100 en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
 <table>
   <tr>
