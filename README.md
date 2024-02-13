@@ -1,4 +1,4 @@
-<h1>Contenido de una página, creada con HTML5 y CSS3, utilizando las nuevas tendencias en el Diseño Web</h1>
+<h1>Código de una página creada con HTML5 y CSS3, utilizando las nuevas tendencias en el Diseño Web</h1>
 <br>
 <h2>Al descargar este proyecto, debes efectuar los siguientes pasos:</h2>
 <ol>
