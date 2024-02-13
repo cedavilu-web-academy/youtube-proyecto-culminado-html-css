@@ -23,6 +23,10 @@
     margin: 0;
     padding: 0;
 }
+/*=== Ajuste realizado===*/
+html{
+    scroll-behavior: smooth;
+}
 img , video{
     width: 100%;
 }
